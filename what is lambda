@@ -1,0 +1,9 @@
+A Lambda function is a small anonymous function.A lambda function can take any number
+but can only have one expression
+
+example:-
+
+x=lambda a:a+5
+print(x(5))
+
+output is 10 of this expression
